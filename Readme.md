@@ -1,7 +1,9 @@
 # fritzbox.reconnect Tool C#
 
 ## About
-A C# Tool that instructs your AVM FritzBox router to get a new public IP address. Written in C#. Uses and requires active UPNP.
+A Tool that instructs your AVM FritzBox router to get a new public IP address.
+
+Written in C# .NET Core. Uses and requires active UPNP.
 
 ## Notes
 Tested with a FritzBox 7490 with OS7.
